@@ -45,7 +45,7 @@ My primary focus is on developing high-performance, cross-platform mobile applic
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdollahbg&theme=calm)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdollahbg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs] <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdollahbg"/>
 
 </div>
 
@@ -53,5 +53,5 @@ My primary focus is on developing high-performance, cross-platform mobile applic
 
 ## 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:freel6996@gmail.com)
