@@ -16,8 +16,10 @@
 ---
 
 ###  GitHub Stats  
-![GitHub Stats](https://streak-stats.demolab.com?user=abdollahbg)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdollahbg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdollahbg&theme=default&hide_border=true)
+
+![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=abdollahbg&layout=compact&hide_border=true)
+
 
 ---
 
