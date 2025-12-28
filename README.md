@@ -14,7 +14,7 @@
 
 I am a dedicated **Mobile Application Developer** with a strong foundation in software engineering principles. I hold a **Bachelor's degree in Information Technology** from the **Faculty of Information Technology, Misrata**.
 
-My primary focus is on developing high-performance, cross-platform mobile applications using **Flutter**, but my technical expertise extends to desktop application development and backend logic using Python and C#. I am passionate about writing clean, maintainable code and building intuitive user experiences.
+My primary focus is on developing high-performance, cross-platform mobile applications using **Flutter**.
 
 *  **Education:** Bachelor of Information Technology, Faculty of IT - Misrata.
 *  **Current Focus:** Advanced State Management in Flutter & Clean Architecture.
@@ -28,10 +28,6 @@ My primary focus is on developing high-performance, cross-platform mobile applic
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-###  Desktop & Backend Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ###  Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
